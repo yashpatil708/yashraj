@@ -10,3 +10,4 @@ for i in range(1, num + 1):
 
 # Output: The factorial of the number
 print(f"The factorial of {num} is {factorial}")
+printf("Finally Done...");
